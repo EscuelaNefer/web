@@ -1,0 +1,5 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/natalia4/public_html/repo
+    - /bin/cp index.html $DEPLOYPATH
