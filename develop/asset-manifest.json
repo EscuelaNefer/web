@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/repo/static/css/main.7b6173dd.css",
-    "main.js": "/repo/static/js/main.5489bbef.js",
-    "static/js/787.eced43b6.chunk.js": "/repo/static/js/787.eced43b6.chunk.js",
-    "static/media/institucional.mp4": "/repo/static/media/institucional.029af6da4b829c839758.mp4",
-    "static/media/alquimia.png": "/repo/static/media/alquimia.76525423df2ee5f9d518.png",
-    "static/media/talleres.png": "/repo/static/media/talleres.c4e8798739e0c00964fe.png",
-    "static/media/subscribite.png": "/repo/static/media/subscribite.e308e0e00b64754f89dd.png",
-    "static/media/terminos_y_condiciones.pdf": "/repo/static/media/terminos_y_condiciones.d88ff091bae6fdb7e08d.pdf",
-    "static/media/logo.svg": "/repo/static/media/logo.d3fe1b7b2435c5b878bc000f678e64cf.svg",
-    "static/media/politica_de_privacidad.pdf": "/repo/static/media/politica_de_privacidad.b47fccf2eba0c7120148.pdf",
-    "index.html": "/repo/index.html",
-    "static/media/cafecito_logo.svg": "/repo/static/media/cafecito_logo.d5aad2a549f79c564c103e4fe573d76a.svg",
-    "static/media/logo-tiktok.svg": "/repo/static/media/logo-tiktok.f884b058e6bf4a5b4d9b042fb51bbd96.svg",
-    "static/media/getFetch.cjs": "/repo/static/media/getFetch.40f37ddea2378391108f.cjs",
-    "main.7b6173dd.css.map": "/repo/static/css/main.7b6173dd.css.map",
-    "main.5489bbef.js.map": "/repo/static/js/main.5489bbef.js.map",
-    "787.eced43b6.chunk.js.map": "/repo/static/js/787.eced43b6.chunk.js.map"
+    "main.css": "/develop/static/css/main.7b6173dd.css",
+    "main.js": "/develop/static/js/main.554ccf3d.js",
+    "static/js/787.eced43b6.chunk.js": "/develop/static/js/787.eced43b6.chunk.js",
+    "static/media/institucional.mp4": "/develop/static/media/institucional.029af6da4b829c839758.mp4",
+    "static/media/alquimia.png": "/develop/static/media/alquimia.76525423df2ee5f9d518.png",
+    "static/media/talleres.png": "/develop/static/media/talleres.c4e8798739e0c00964fe.png",
+    "static/media/subscribite.png": "/develop/static/media/subscribite.e308e0e00b64754f89dd.png",
+    "static/media/terminos_y_condiciones.pdf": "/develop/static/media/terminos_y_condiciones.d88ff091bae6fdb7e08d.pdf",
+    "static/media/logo.svg": "/develop/static/media/logo.d3fe1b7b2435c5b878bc000f678e64cf.svg",
+    "static/media/politica_de_privacidad.pdf": "/develop/static/media/politica_de_privacidad.b47fccf2eba0c7120148.pdf",
+    "index.html": "/develop/index.html",
+    "static/media/cafecito_logo.svg": "/develop/static/media/cafecito_logo.d5aad2a549f79c564c103e4fe573d76a.svg",
+    "static/media/logo-tiktok.svg": "/develop/static/media/logo-tiktok.f884b058e6bf4a5b4d9b042fb51bbd96.svg",
+    "static/media/getFetch.cjs": "/develop/static/media/getFetch.40f37ddea2378391108f.cjs",
+    "main.7b6173dd.css.map": "/develop/static/css/main.7b6173dd.css.map",
+    "main.554ccf3d.js.map": "/develop/static/js/main.554ccf3d.js.map",
+    "787.eced43b6.chunk.js.map": "/develop/static/js/787.eced43b6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7b6173dd.css",
-    "static/js/main.5489bbef.js"
+    "static/js/main.554ccf3d.js"
   ]
 }
