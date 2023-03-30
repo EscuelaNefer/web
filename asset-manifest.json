@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7b6173dd.css",
+    "main.js": "/static/js/main.fa5e36ff.js",
+    "static/js/787.eced43b6.chunk.js": "/static/js/787.eced43b6.chunk.js",
+    "static/media/institucional.mp4": "/static/media/institucional.029af6da4b829c839758.mp4",
+    "static/media/alquimia.png": "/static/media/alquimia.76525423df2ee5f9d518.png",
+    "static/media/talleres.png": "/static/media/talleres.c4e8798739e0c00964fe.png",
+    "static/media/subscribite.png": "/static/media/subscribite.e308e0e00b64754f89dd.png",
+    "static/media/terminos_y_condiciones.pdf": "/static/media/terminos_y_condiciones.d88ff091bae6fdb7e08d.pdf",
+    "static/media/logo.svg": "/static/media/logo.d3fe1b7b2435c5b878bc000f678e64cf.svg",
+    "static/media/politica_de_privacidad.pdf": "/static/media/politica_de_privacidad.b47fccf2eba0c7120148.pdf",
+    "index.html": "/index.html",
+    "static/media/cafecito_logo.svg": "/static/media/cafecito_logo.d5aad2a549f79c564c103e4fe573d76a.svg",
+    "static/media/logo-tiktok.svg": "/static/media/logo-tiktok.f884b058e6bf4a5b4d9b042fb51bbd96.svg",
+    "static/media/getFetch.cjs": "/static/media/getFetch.40f37ddea2378391108f.cjs",
+    "main.7b6173dd.css.map": "/static/css/main.7b6173dd.css.map",
+    "main.fa5e36ff.js.map": "/static/js/main.fa5e36ff.js.map",
+    "787.eced43b6.chunk.js.map": "/static/js/787.eced43b6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7b6173dd.css",
+    "static/js/main.fa5e36ff.js"
+  ]
+}
