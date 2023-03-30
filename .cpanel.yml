@@ -1,5 +1,5 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/natalia4/public_html/repo
-    - /bin/cp -R build $DEPLOYPATH
+    - export DEPLOYPATH=/home/natalia4/public_html
+    - /bin/cp -R develop $DEPLOYPATH
