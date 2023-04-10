@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.7b6173dd.css",
-    "main.js": "/static/js/main.fa5e36ff.js",
+    "main.js": "/static/js/main.b491fc55.js",
     "static/js/787.eced43b6.chunk.js": "/static/js/787.eced43b6.chunk.js",
     "static/media/institucional.mp4": "/static/media/institucional.029af6da4b829c839758.mp4",
     "static/media/alquimia.png": "/static/media/alquimia.76525423df2ee5f9d518.png",
@@ -15,11 +15,11 @@
     "static/media/logo-tiktok.svg": "/static/media/logo-tiktok.f884b058e6bf4a5b4d9b042fb51bbd96.svg",
     "static/media/getFetch.cjs": "/static/media/getFetch.40f37ddea2378391108f.cjs",
     "main.7b6173dd.css.map": "/static/css/main.7b6173dd.css.map",
-    "main.fa5e36ff.js.map": "/static/js/main.fa5e36ff.js.map",
+    "main.b491fc55.js.map": "/static/js/main.b491fc55.js.map",
     "787.eced43b6.chunk.js.map": "/static/js/787.eced43b6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7b6173dd.css",
-    "static/js/main.fa5e36ff.js"
+    "static/js/main.b491fc55.js"
   ]
 }
