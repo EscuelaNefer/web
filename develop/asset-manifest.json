@@ -1,9 +1,9 @@
 {
   "files": {
     "main.css": "/develop/static/css/main.eebbdf9f.css",
-    "main.js": "/develop/static/js/main.5b43f345.js",
+    "main.js": "/develop/static/js/main.51f324dd.js",
     "static/js/787.eced43b6.chunk.js": "/develop/static/js/787.eced43b6.chunk.js",
-    "static/media/Talleres_2023.mp4": "/develop/static/media/Talleres_2023.fb0bcb84f7b266f4bdc6.mp4",
+    "static/media/Talleres_2023.mp4": "/develop/static/media/Talleres_2023.4b5ed338acac7fe02e6e.mp4",
     "static/media/institucional.mp4": "/develop/static/media/institucional.029af6da4b829c839758.mp4",
     "static/media/alquimia.png": "/develop/static/media/alquimia.76525423df2ee5f9d518.png",
     "static/media/talleres.png": "/develop/static/media/talleres.c4e8798739e0c00964fe.png",
@@ -29,11 +29,11 @@
     "static/media/logo-tiktok.svg": "/develop/static/media/logo-tiktok.e058751945cc8d7ff86c49ddebd3d03e.svg",
     "static/media/getFetch.cjs": "/develop/static/media/getFetch.40f37ddea2378391108f.cjs",
     "main.eebbdf9f.css.map": "/develop/static/css/main.eebbdf9f.css.map",
-    "main.5b43f345.js.map": "/develop/static/js/main.5b43f345.js.map",
+    "main.51f324dd.js.map": "/develop/static/js/main.51f324dd.js.map",
     "787.eced43b6.chunk.js.map": "/develop/static/js/787.eced43b6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.eebbdf9f.css",
-    "static/js/main.5b43f345.js"
+    "static/js/main.51f324dd.js"
   ]
 }
